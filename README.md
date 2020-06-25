@@ -9,3 +9,5 @@ Radius: dist. from center to perimeter
 Texture: deviation of gray-scale values
 Smoothness: local variation in radius length
 Concavity: severity of concave portions of the contour
+
+#### BreastCancer v2 is an updated notebook with more models.
